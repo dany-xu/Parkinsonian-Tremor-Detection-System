@@ -1,4 +1,4 @@
-This is an embedded system project Parkinsonian Tremor Detection System.
+This is an embedded system project Parkinsonian Tremor Detection System at NYU course Embedded System.
 
 The first task is to read gyro values from the board. 
 
